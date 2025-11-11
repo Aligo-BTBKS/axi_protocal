@@ -1,0 +1,17 @@
+# Vivado
+*.jou
+*.log
+*.str
+*.cache/
+*.gen/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/
+*.hw/
+*.Xil/
+# waves
+*.wdb
+*.pb
+# temp
+*.tmp
